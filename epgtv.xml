@@ -28,6 +28,7 @@
   <channel id="DMAX.it">
     <display-name>IT - DMAX</display-name>
     <icon src="https://iptv-epg.org/logos/Italy/DMAX.it.png"/>
+  </channel> 
   <channel id="SuperTennis.it">
     <display-name>IT - SuperTennis</display-name>
     <icon src="https://iptv-epg.org/logos/Italy/SuperTennis.it.png"/>
