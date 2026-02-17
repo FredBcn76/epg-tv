@@ -1,305 +1,135 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv source-info-name="IPTV-EPG.org" source-info-url="https://iptv-epg.org">
-  </channel>
-  <channel id="TV8.it">
-    <display-name>IT - TV8</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/TV8.it.png"/>
-  </channel>
-  <channel id="NOVE.it">
-    <display-name>IT - NOVE</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/NOVE.it.png"/>
-  </channel>
-  <channel id="cielo.it">
-    <display-name>IT - cielo</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/cielo.it.png"/>
-  </channel>
-  <channel id="TV2000.it">
-    <display-name>IT - TV2000</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/TV2000.it.png"/>
-  </channel>
-  <channel id="RealTime.it">
-    <display-name>IT - Real Time</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RealTime.it.png"/>
-  </channel>
-  <channel id="GIALLO.it">
-    <display-name>IT - GIALLO</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/GIALLO.it.png"/>
-  </channel>
-  <channel id="DMAX.it">
-    <display-name>IT - DMAX</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/DMAX.it.png"/>
-  </channel> 
-  <channel id="SuperTennis.it">
-    <display-name>IT - SuperTennis</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/SuperTennis.it.png"/>
-  <channel id="Discovery.it">
-    <display-name>IT - Discovery</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Discovery.it.png"/>
-  <channel id="SkyTG24.it">
-    <display-name>IT - Sky TG24</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/SkyTG24.it.png"/>
-  <channel id="Euronews.it">
-    <display-name>IT - Euronews</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Euronews.it.png"/>
-  <channel id="Super!.it">
-    <display-name>IT - Super!</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Super%21.it.png"/>
-  <channel id="-frisbee-.it">
-    <display-name>IT - -frisbee-</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/-frisbee-.it.png"/>
-  </channel>
-  <channel id="DeejayTV.it">
-    <display-name>IT - Deejay TV</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/DeejayTV.it.png"/>
-  </channel>
-  <channel id="RadioItaliaTV.it">
-    <display-name>IT - Radio Italia TV</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RadioItaliaTV.it.png"/>
-  </channel>
-  <channel id="RADIONORBATV.it">
-    <display-name>IT - RADIONORBA TV</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RADIONORBATV.it.png"/>
-  </channel>
-  <channel id="RTL1025.it">
-    <display-name>IT - RTL 102.5</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RTL1025.it.png"/>
-  </channel>
-  <channel id="Mediaset27Twentyseven.it">
-    <display-name>IT - Mediaset 27 Twentyseven </display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Mediaset27Twentyseven.it.png"/>
-  </channel>
-  <channel id="Mediaset20.it">
-    <display-name>IT - 20 Mediaset</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Mediaset20.it.png"/>
-  </channel>
-  <channel id="Cine34.it">
-    <display-name>IT - Cine34</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Cine34.it.png"/>
-  </channel>
-  <channel id="MediasetExtra.it">
-    <display-name>IT - Mediaset Extra</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/MediasetExtra.it.png"/>
-  </channel>
-  <channel id="TOPcrime.it">
-    <display-name>IT - TOPcrime</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/TOPcrime.it.png"/>
-  </channel>
-  <channel id="Iris.it">
-    <display-name>IT - Iris</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Iris.it.png"/>
-  </channel>
-  <channel id="Boing.it">
-    <display-name>IT - Boing</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Boing.it.png"/>
-  </channel>
-  <channel id="CARTOONITO.it">
-    <display-name>IT - CARTOONITO</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/CARTOONITO.it.png"/>
-  </channel>
-  <channel id="Rete4.it">
-    <display-name>IT - Rete 4</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Rete4.it.png"/>
-  </channel>
-  <channel id="Canale5.it">
-    <display-name>IT - Canale 5</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Canale5.it.png"/>
-  </channel>
-  <channel id="Italia1.it">
-    <display-name>IT - Italia 1</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Italia1.it.png"/>
-  </channel>
-  <channel id="Italia2.it">
-    <display-name>IT - Italia 2</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Italia2.it.png"/>
-  </channel>
-  <channel id="FoodNetwork.it">
-    <display-name>IT - Food Network</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/FoodNetwork.it.png"/>
-   </channel>
-  <channel id="WarnerTV.it">
-    <display-name>IT - Warner TV</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/WarnerTV.it.png"/>
-  </channel>
-  <channel id="La5.it">
-    <display-name>IT - La 5</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/La5.it.png"/>
-  </channel>
-  <channel id="RAISport.it">
-    <display-name>IT - RAI Sport</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RAISport.it.png"/>
-  </channel>
-  <channel id="NationalGeo.it">
-    <display-name>IT - NationalGeo</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/NationalGeo.it.png"/>
- </channel>
-  <channel id="Focus.it">
-    <display-name>IT - Focus</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Focus.it.png"/>
-  </channel>
-  <channel id="FashionTV.it">
-    <display-name>IT - Fashion TV</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/FashionTV.it.png"/>
-  </channel>
-  <channel id="SkyMeteo24.it">
-    <display-name>IT - Sky Meteo24</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/SkyMeteo24.it.png"/>
-  </channel>
-  <channel id="RaiNews.it">
-    <display-name>IT - Rai News</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RaiNews.it.png"/>
-  </channel>
-  <channel id="TgCom24.it">
-    <display-name>IT - TgCom24</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/TgCom24.it.png"/>
-  </channel>
-  <channel id="RaiYoyo.it">
-    <display-name>IT - Rai Yoyo</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RaiYoyo.it.png"/>
-  </channel>
-  <channel id="VH1.it">
-    <display-name>IT - VH1</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/VH1.it.png"/>
-  </channel>
-  <channel id="RadioMonteCarlo.it">
-    <display-name>IT - Radio Monte Carlo</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RadioMonteCarlo.it.png"/>
-  </channel>
-  <channel id="Rai1.it">
-    <display-name>IT - Rai 1</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Rai1.it.png"/>
-  </channel>
-  <channel id="Rai2.it">
-    <display-name>IT - Rai 2</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Rai2.it.png"/>
-  </channel>
-  <channel id="Rai3.it">
-    <display-name>IT - Rai 3</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Rai3.it.png"/>
-  </channel>
-  <channel id="La7.it">
-    <display-name>IT - La7</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/La7.it.png"/>
-  </channel>
-  <channel id="Rai4.it">
-    <display-name>IT - Rai 4</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Rai4.it.png"/>
-  </channel>
-  <channel id="Rai5.it">
-    <display-name>IT - Rai 5</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/Rai5.it.png"/>
-  </channel>
-  <channel id="RaiMovie.it">
-    <display-name>IT - Rai Movie</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RaiMovie.it.png"/>
-  </channel>
-  <channel id="RaiPremium.it">
-    <display-name>IT - Rai Premium</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RaiPremium.it.png"/>
-  </channel>
-  <channel id="La7D.it">
-    <display-name>IT - La7D</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/La7D.it.png"/>
-  </channel>
-  <channel id="RaiStoria.it">
-    <display-name>IT - Rai Storia</display-name>
-    <icon src="https://iptv-epg.org/logos/Italy/RaiStoria.it.png"/>
-  </channel>
-  <channel id="BFMBusiness.fr">
-    <display-name>FR - BFM Business</display-name>
-    <icon src="https://iptv-epg.org/logos/France/BFMBusiness.fr.png"/>
-  </channel>
-  <channel id="Euronews.fr">
-    <display-name>FR - Euronews</display-name>
-    <icon src="https://iptv-epg.org/logos/France/Euronews.fr.png"/>
-  </channel>
-  <channel id="M6.fr">
-    <display-name>FR - M6</display-name>
-    <icon src="https://iptv-epg.org/logos/France/M6.fr.png"/>
-  </channel>
-  <channel id="RTL9.fr">
-    <display-name>FR - RTL9</display-name>
-    <icon src="https://iptv-epg.org/logos/France/RTL9.fr.png"/>
-  </channel>
-  <channel id="TF1Series-Films.fr">
-    <display-name>FR - TF1 Séries-Films</display-name>
-    <icon src="https://iptv-epg.org/logos/France/TF1Series-Films.fr.png"/>
-  </channel>
-  <channel id="6ter.fr">
-    <display-name>FR - 6ter</display-name>
-    <icon src="https://iptv-epg.org/logos/France/6ter.fr.png"/>
-  </channel>
-  <channel id="PublicSenat.fr">
-    <display-name>FR - Public Sénat</display-name>
-    <icon src="https://iptv-epg.org/logos/France/PublicSenat.fr.png"/>
-  </channel>
-  <channel id="CNews.fr">
-    <display-name>FR - CNews</display-name>
-    <icon src="https://iptv-epg.org/logos/France/CNews.fr.png"/>
-  </channel>
-  <channel id="France2.fr">
-    <display-name>FR - France 2</display-name>
-    <icon src="https://iptv-epg.org/logos/France/France2.fr.png"/>
-  </channel>
-  <channel id="TFX.fr">
-    <display-name>FR - TFX</display-name>
-    <icon src="https://iptv-epg.org/logos/France/TFX.fr.png"/>
-  </channel>
-  <channel id="Animaux.fr">
-    <display-name>FR - Animaux</display-name>
-    <icon src="https://iptv-epg.org/logos/France/Animaux.fr.png"/>
-  </channel>
-  <channel id="RMCDecouverte.fr">
-    <display-name>FR - RMC Découverte</display-name>
-    <icon src="https://iptv-epg.org/logos/France/RMCDecouverte.fr.png"/>
-  </channel>
-  <channel id="M6Music.fr">
-    <display-name>FR - M6 Music</display-name>
-    <icon src="https://iptv-epg.org/logos/France/M6Music.fr.png"/>
-  </channel>
-  <channel id="LCI.fr">
-    <display-name>FR - LCI</display-name>
-    <icon src="https://iptv-epg.org/logos/France/LCI.fr.png"/>
-  </channel>
-  <channel id="RMCSTORY.fr">
-    <display-name>FR - RMC STORY</display-name>
-    <icon src="https://iptv-epg.org/logos/France/RMCSTORY.fr.png"/>
-  </channel>
-  <channel id="BFMTV.fr">
-    <display-name>FR - BFM TV</display-name>
-    <icon src="https://iptv-epg.org/logos/France/BFMTV.fr.png"/>
-  </channel>
-  <channel id="LCP.fr">
-    <display-name>FR - LCP</display-name>
-    <icon src="https://iptv-epg.org/logos/France/LCP.fr.png"/>
-  </channel>
-  <channel id="TF1.fr">
-    <display-name>FR - TF1</display-name>
-    <icon src="https://iptv-epg.org/logos/France/TF1.fr.png"/>
-  </channel>
-  <channel id="franceinfo:.fr">
-    <display-name>FR - franceinfo:</display-name>
-    <icon src="https://iptv-epg.org/logos/France/franceinfo:.fr.png"/>
-  </channel>
-  <channel id="France5.fr">
-    <display-name>FR - France 5</display-name>
-    <icon src="https://iptv-epg.org/logos/France/France5.fr.png"/>
-  </channel>
-  <channel id="France3.fr">
-    <display-name>FR - France 3</display-name>
-    <icon src="https://iptv-epg.org/logos/France/France3.fr.png"/>
-  </channel>
-  <channel id="France24.fr">
-    <display-name>FR - France 24</display-name>
-    <icon src="https://iptv-epg.org/logos/France/France24.fr.png"/>
-  </channel>
-  <channel id="Arte.fr">
-    <display-name>FR - Arte</display-name>
-    <icon src="https://iptv-epg.org/logos/France/Arte.fr.png"/>
-   </channel>
-  <channel id="CStar.fr">
-    <display-name>FR - CStar</display-name>
-    <icon src="https://iptv-epg.org/logos/France/CStar.fr.png"/>
-  </channel>
-  <channel id="Planeteplus.fr">
-    <display-name>FR - Planete+</display-name>
-    <icon src="https://iptv-epg.org/logos/France/Planeteplus.fr.png"/>
+<tv generator-info-name="Full EPG lista.it.20251101.m3u">
+  <channel id="+24.TV"><display-name>+24.TV</display-name></channel>
+  <channel id="20MinutesTV.fr"><display-name>20MinutesTV.fr</display-name></channel>
+  <channel id="24Horas.TV"><display-name>24Horas.TV</display-name></channel>
+  <channel id="324.TV"><display-name>324.TV</display-name></channel>
+  <channel id="6ter.fr"><display-name>6ter.fr</display-name></channel>
+  <channel id="Animaux.fr"><display-name>Animaux.fr</display-name></channel>
+  <channel id="Antena3.TV"><display-name>Antena3.TV</display-name></channel>
+  <channel id="BBCFour.uk"><display-name>BBCFour.uk</display-name></channel>
+  <channel id="BBCNews.uk@Europe"><display-name>BBCNews.uk@Europe</display-name></channel>
+  <channel id="BBCOne.uk"><display-name>BBCOne.uk</display-name></channel>
+  <channel id="BBCThree.uk"><display-name>BBCThree.uk</display-name></channel>
+  <channel id="BBCTwo.uk"><display-name>BBCTwo.uk</display-name></channel>
+  <channel id="BTV.TV"><display-name>BTV.TV</display-name></channel>
+  <channel id="BeMad.es@SD"><display-name>BeMad.es@SD</display-name></channel>
+  <channel id="BloombergTVEurope.uk"><display-name>BloombergTVEurope.uk</display-name></channel>
+  <channel id="CBSNews247.us@SD"><display-name>CBSNews247.us@SD</display-name></channel>
+  <channel id="CNN.us@HD"><display-name>CNN.us@HD</display-name></channel>
+  <channel id="Canale5.it"><display-name>Canale5.it</display-name></channel>
+  <channel id="Channel4.uk@UKHD"><display-name>Channel4.uk@UKHD</display-name></channel>
+  <channel id="Channel5.uk@HD"><display-name>Channel5.uk@HD</display-name></channel>
+  <channel id="Cine34.it"><display-name>Cine34.it</display-name></channel>
+  <channel id="CiudadesdelOcioTV.TV"><display-name>CiudadesdelOcioTV.TV</display-name></channel>
+  <channel id="Cuatro.TV"><display-name>Cuatro.TV</display-name></channel>
+  <channel id="DMAX.it"><display-name>DMAX.it</display-name></channel>
+  <channel id="DeejayTV.it@SD"><display-name>DeejayTV.it@SD</display-name></channel>
+  <channel id="DeluxeLounge@HD"><display-name>DeluxeLounge@HD</display-name></channel>
+  <channel id="DistritoTV.TV"><display-name>DistritoTV.TV</display-name></channel>
+  <channel id="Divinity.TV"><display-name>Divinity.TV</display-name></channel>
+  <channel id="ElConfidencial.TV"><display-name>ElConfidencial.TV</display-name></channel>
+  <channel id="ElPais.TV"><display-name>ElPais.TV</display-name></channel>
+  <channel id="ElToroTV.TV"><display-name>ElToroTV.TV</display-name></channel>
+  <channel id="Energy.TV"><display-name>Energy.TV</display-name></channel>
+  <channel id="EtnaEspressoChannel.it@SD"><display-name>EtnaEspressoChannel.it@SD</display-name></channel>
+  <channel id="Euronews.TV"><display-name>Euronews.TV</display-name></channel>
+  <channel id="Euronews.it"><display-name>Euronews.it</display-name></channel>
+  <channel id="EuronewsEnglish.fr@HD"><display-name>EuronewsEnglish.fr@HD</display-name></channel>
+  <channel id="FashionTV.it"><display-name>FashionTV.it</display-name></channel>
+  <channel id="Film4.uk@HD"><display-name>Film4.uk@HD</display-name></channel>
+  <channel id="Focus.it"><display-name>Focus.it</display-name></channel>
+  <channel id="FoodNetwork.it"><display-name>FoodNetwork.it</display-name></channel>
+  <channel id="FoxNewsChannel.us@SD"><display-name>FoxNewsChannel.us@SD</display-name></channel>
+  <channel id="France2.fr"><display-name>France2.fr</display-name></channel>
+  <channel id="France3.fr"><display-name>France3.fr</display-name></channel>
+  <channel id="France4.fr"><display-name>France4.fr</display-name></channel>
+  <channel id="France5.fr"><display-name>France5.fr</display-name></channel>
+  <channel id="GIALLO.it"><display-name>GIALLO.it</display-name></channel>
+  <channel id="HGTV.it"><display-name>HGTV.it</display-name></channel>
+  <channel id="ITBC2100001G9"><display-name>ITBC2100001G9</display-name></channel>
+  <channel id="ITBC210000200"><display-name>ITBC210000200</display-name></channel>
+  <channel id="ITBD1900010JL"><display-name>ITBD1900010JL</display-name></channel>
+  <channel id="ITV2.uk@SD"><display-name>ITV2.uk@SD</display-name></channel>
+  <channel id="ITV3.uk@SD"><display-name>ITV3.uk@SD</display-name></channel>
+  <channel id="ITV4.uk@SD"><display-name>ITV4.uk@SD</display-name></channel>
+  <channel id="Iris.it"><display-name>Iris.it</display-name></channel>
+  <channel id="Italia1.it"><display-name>Italia1.it</display-name></channel>
+  <channel id="Italia2.it"><display-name>Italia2.it</display-name></channel>
+  <channel id="LCI.fr"><display-name>LCI.fr</display-name></channel>
+  <channel id="La1.TV"><display-name>La1.TV</display-name></channel>
+  <channel id="La2.TV"><display-name>La2.TV</display-name></channel>
+  <channel id="La5.it"><display-name>La5.it</display-name></channel>
+  <channel id="La7.it"><display-name>La7.it</display-name></channel>
+  <channel id="La7D.it"><display-name>La7D.it</display-name></channel>
+  <channel id="LaSexta.es@SD"><display-name>LaSexta.es@SD</display-name></channel>
+  <channel id="M2OTv.it"><display-name>M2OTv.it</display-name></channel>
+  <channel id="MTV.fr@SD"><display-name>MTV.fr@SD</display-name></channel>
+  <channel id="Mediaset20.it"><display-name>Mediaset20.it</display-name></channel>
+  <channel id="MediasetExtra.it"><display-name>MediasetExtra.it</display-name></channel>
+  <channel id="MensUPTV.fr@SD"><display-name>MensUPTV.fr@SD</display-name></channel>
+  <channel id="More4.uk@HD"><display-name>More4.uk@HD</display-name></channel>
+  <channel id="NOVE.it"><display-name>NOVE.it</display-name></channel>
+  <channel id="NOVO19.fr"><display-name>NOVO19.fr</display-name></channel>
+  <channel id="Negocios.TV"><display-name>Negocios.TV</display-name></channel>
+  <channel id="Neox.TV"><display-name>Neox.TV</display-name></channel>
+  <channel id="Nova.TV"><display-name>Nova.TV</display-name></channel>
+  <channel id="PlanetePlus.fr"><display-name>PlanetePlus.fr</display-name></channel>
+  <channel id="RAISport.it"><display-name>RAISport.it</display-name></channel>
+  <channel id="RAIStoria.it"><display-name>RAIStoria.it</display-name></channel>
+  <channel id="RMCDecouverte.fr"><display-name>RMCDecouverte.fr</display-name></channel>
+  <channel id="RMCLife.fr@SD"><display-name>RMCLife.fr@SD</display-name></channel>
+  <channel id="RMCStory.fr@SD"><display-name>RMCStory.fr@SD</display-name></channel>
+  <channel id="RTL102.5News.it"><display-name>RTL102.5News.it</display-name></channel>
+  <channel id="RTVE_Cocina.TV"><display-name>RTVE_Cocina.TV</display-name></channel>
+  <channel id="RTVE_Conciertos_R3.TV"><display-name>RTVE_Conciertos_R3.TV</display-name></channel>
+  <channel id="RTVE_Moderna.TV"><display-name>RTVE_Moderna.TV</display-name></channel>
+  <channel id="RTVE_SomosCine.TV"><display-name>RTVE_SomosCine.TV</display-name></channel>
+  <channel id="Radio105TV.it"><display-name>Radio105TV.it</display-name></channel>
+  <channel id="RadioCapitalTv.it"><display-name>RadioCapitalTv.it</display-name></channel>
+  <channel id="RadioKissKiss.it"><display-name>RadioKissKiss.it</display-name></channel>
+  <channel id="RadioZeta.it"><display-name>RadioZeta.it</display-name></channel>
+  <channel id="Rai1.it"><display-name>Rai1.it</display-name></channel>
+  <channel id="Rai2.it"><display-name>Rai2.it</display-name></channel>
+  <channel id="Rai3.it"><display-name>Rai3.it</display-name></channel>
+  <channel id="Rai4.it"><display-name>Rai4.it</display-name></channel>
+  <channel id="Rai4K.it"><display-name>Rai4K.it</display-name></channel>
+  <channel id="Rai5.it"><display-name>Rai5.it</display-name></channel>
+  <channel id="RaiMovie.it"><display-name>RaiMovie.it</display-name></channel>
+  <channel id="RaiNews.it"><display-name>RaiNews.it</display-name></channel>
+  <channel id="RaiPremium.it"><display-name>RaiPremium.it</display-name></channel>
+  <channel id="RealTime.it"><display-name>RealTime.it</display-name></channel>
+  <channel id="Rete4.it"><display-name>Rete4.it</display-name></channel>
+  <channel id="SkyTG24.it"><display-name>SkyTG24.it</display-name></channel>
+  <channel id="SuperTennis.it"><display-name>SuperTennis.it</display-name></channel>
+  <channel id="TDP.TV"><display-name>TDP.TV</display-name></channel>
+  <channel id="TF1SeriesFilms.fr"><display-name>TF1SeriesFilms.fr</display-name></channel>
+  <channel id="TMC.fr@HD"><display-name>TMC.fr@HD</display-name></channel>
+  <channel id="TOPCrime.it"><display-name>TOPCrime.it</display-name></channel>
+  <channel id="TV3.TV"><display-name>TV3.TV</display-name></channel>
+  <channel id="TV8.it"><display-name>TV8.it</display-name></channel>
+  <channel id="TVG2.TV"><display-name>TVG2.TV</display-name></channel>
+  <channel id="Telecinco.TV"><display-name>Telecinco.TV</display-name></channel>
+  <channel id="TgCom24.it"><display-name>TgCom24.it</display-name></channel>
+  <channel id="TraceLatina.fr"><display-name>TraceLatina.fr</display-name></channel>
+  <channel id="TraceUrban.fr"><display-name>TraceUrban.fr</display-name></channel>
+  <channel id="Twentyseven.it"><display-name>Twentyseven.it</display-name></channel>
+  <channel id="Veo7.TV"><display-name>Veo7.TV</display-name></channel>
+  <channel id="VirginRadio.it"><display-name>VirginRadio.it</display-name></channel>
+  <channel id="W9.fr"><display-name>W9.fr</display-name></channel>
+  <channel id="WarnerTV.it"><display-name>WarnerTV.it</display-name></channel>
+  <channel id="arte.fr"><display-name>arte.fr</display-name></channel>
+  <channel id="bfm2.com"><display-name>bfm2.com</display-name></channel>
+  <channel id="bfmbusiness.com"><display-name>bfmbusiness.com</display-name></channel>
+  <channel id="bfmgrandreportages.com"><display-name>bfmgrandreportages.com</display-name></channel>
+  <channel id="bfmtv.com"><display-name>bfmtv.com</display-name></channel>
+  <channel id="cielo.it"><display-name>cielo.it</display-name></channel>
+  <channel id="clubbingtv.com@SD"><display-name>clubbingtv.com@SD</display-name></channel>
+  <channel id="cnews.fr"><display-name>cnews.fr</display-name></channel>
+  <channel id="cstar.fr"><display-name>cstar.fr</display-name></channel>
+  <channel id="euronews.fr"><display-name>euronews.fr</display-name></channel>
+  <channel id="france24.com"><display-name>france24.com</display-name></channel>
+  <channel id="m6.fr"><display-name>m6.fr</display-name></channel>
+  <channel id="tf1.fr"><display-name>tf1.fr</display-name></channel>
+  <channel id="¡Hola!.TV"><display-name>¡Hola!.TV</display-name></channel>
+</tv>
